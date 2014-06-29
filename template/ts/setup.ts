@@ -43,7 +43,7 @@ page {
         }
         */
         layoutRootPath = fileadmin/template/layouts/
-        partialRootPath = fileadmin/template/partial/
+        partialRootPath = fileadmin/template/partials/
 
         variables {
             content < styles.content.get
